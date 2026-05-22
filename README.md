@@ -69,7 +69,7 @@ I specialize in bridging the gap between advanced AI, machine learning theory, a
 
 ---
 
-## 📊 Git Stats & Streak
+## 📊 GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -79,11 +79,6 @@ I specialize in bridging the gap between advanced AI, machine learning theory, a
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul0443&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0443&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>

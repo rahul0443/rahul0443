@@ -55,34 +55,11 @@ I specialize in bridging the gap between advanced AI, machine learning theory, a
 * Developed a 7-page dashboard showing inbound freight metrics, anomaly detection, and SARIMAX volume forecasting.
 * **Tech Stack**: `DuckDB`, `Streamlit`, `Python`, `SARIMAX`, `SQL`, `Data Warehousing`.
 
-### 🗺️ [VRPTW Operations Research Engine](https://github.com/rahul0443/vehicle-routing-optimization-vrptw)
-> **Vehicle Routing Problem with Time Windows Solver**
-* Solved vehicle routing optimization schedules under strict time window constraint matrices.
-* Implemented both a monolithic MILP model and a **Column Generation** algorithm (RMP + Pricing subproblems) in Julia/JuMP, achieving a **6x computational speedup** on standard benchmarks.
-* **Tech Stack**: `Julia`, `JuMP`, `CPLEX`, `Column Generation`, `Operations Research`.
-
 ### 📊 [Distributed Graph Streaming & Analytics](https://github.com/rahul0443/distributed-graph-streaming-platform)
 > **Real-Time Graph Data Streaming Pipeline**
 * Created a distributed data pipeline streaming transactional messages to a graph database via Kafka Connect.
 * Ran Neo4j Graph Data Science (GDS) workloads (PageRank, BFS) on the streaming graphs for community detection.
 * **Tech Stack**: `Apache Kafka`, `Kafka Connect`, `Neo4j`, `Docker`, `Kubernetes`, `Minikube`.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rahul0443&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul0443&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 

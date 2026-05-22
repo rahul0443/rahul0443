@@ -14,7 +14,7 @@
 
 ## ⚡ About Me
 
-I am a **Data Scientist & AI Engineer** currently pursuing my **Master of Science in Data Science at Arizona State University (ASU)**. 
+I am a **Data Scientist & AI Engineer** who recently graduated with a **Master of Science in Data Science from Arizona State University (ASU)**.
 
 I specialize in bridging the gap between advanced AI, machine learning theory, and production-grade software engineering. I build systems that automate manual compliance reviews, optimize complex supply chain logistics, streaming graphs, and forecast market regimes. 
 
